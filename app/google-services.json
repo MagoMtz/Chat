@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "191764758193",
+    "firebase_url": "https://chat-de-margaro.firebaseio.com",
+    "project_id": "chat-de-margaro",
+    "storage_bucket": "chat-de-margaro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191764758193:android:8f9f8bfa3bea89fd",
+        "android_client_info": {
+          "package_name": "com.magomtz.android.magochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191764758193-2qbgb5d7pmn4luaq9gbidj5fqhpcd295.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPM14UtJ1TnvnlnCgwK1ufIC26jYQ-Kk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

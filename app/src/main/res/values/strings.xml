@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mago Chat</string>
+
+    <string name="login.message.email">Correo electrónico</string>
+    <string name="login.message.password">Contraseña</string>
+    <string name="login.button.signin">Iniciar sesión</string>
+    <string name="login.button.signup">Crear cuenta</string>
+    <string name="login.error.message.signin">Imposible iniciar sesión %s</string>
+    <string name="login.error.message.signup">Imposible registrar nuevo usuario %s</string>
+    <string name="login.notice.message.signup">Usuario agregado exitosamente</string>
+
+    <string name="contaclist.menu.action.signoff">Cerrar sesión</string>
+    <string name="contaclist.title">Contactos</string>
+
+    <string name="addcontact.message.title">Agregar contacto</string>
+    <string name="addcontact.message.add">Aceptar</string>
+    <string name="addcontact.message.cancel">Cancelar</string>
+    <string name="addcontact.message.contactadded">Contacto agregado</string>
+    <string name="addcontact.error.message">Imposible agregar usuario</string>
+
+</resources>
